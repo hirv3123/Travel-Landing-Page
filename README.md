@@ -1,1 +1,1 @@
-# Travel-Landing-Page
+Designed a visually appealing landing page for a travel company highlighting destinations.
